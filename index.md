@@ -134,13 +134,14 @@ Modify the block below if there are any special requirements.
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
+
 {% comment%}
 CODE OF CONDUCT
-{% endcomment %}
+
 <p id="code-of-conduct">
 <strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
 </p>
-
+{% endcomment %}
 
 {% comment %}
 ACCESSIBILITY
